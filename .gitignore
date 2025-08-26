@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+
+html_templetes.py
+images_handler.py
+pdf_handler.py
+
+models/
+
+
+llava/
